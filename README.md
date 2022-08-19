@@ -4,7 +4,7 @@
 <h3>Nightmare : Nightmare is a high-level browser automation library from Segment that mimics simple user actions like 'goto', 'type' and 'click'.Here nightmare goes to a particular url fetches the html for us and then we can parse and do what we want with it.</h3>
 <br/>
 <h3>@sendgrid/mail : This is a dedicated service for interaction with the mail endpoint of the SendGrid v3 API.
-<h2 color:red> Setup Environment Variables
+<h2 text-color:"red"> Setup Environment Variables
 Do not hardcode your Twilio SendGrid API Key into your code. Instead, use an environment variable or some other secure means of protecting your Twilio SendGrid API Key. Following is an example of using an environment variable.</h2>
 <br/>
 <h3>dotenv : Dotenv is a zero-dependency module that loads environment variables from a .env file into process.env. Storing configuration in the environment separate from code is based on The Twelve-Factor App methodology.</h3>
