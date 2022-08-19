@@ -9,4 +9,4 @@ Do not hardcode your Twilio SendGrid API Key into your code. Instead, use an env
 <br/>
 <h3>dotenv : Dotenv is a zero-dependency module that loads environment variables from a .env file into process.env. Storing configuration in the environment separate from code is based on The Twelve-Factor App methodology.</h3>
 I also used Temp-mail for sending a mail 
-  Temp mail is basically provides a free email service that allows to receive email at a temporary address that self-destructed after a certain time elapses( decomposable email)
+  <b>Temp mail is basically provides a free email service that allows to receive email at a temporary address that self-destructed after a certain time elapses( decomposable email</b>
