@@ -1,6 +1,6 @@
 # Price-Tracker
 <h3>I created Amazon Price Tracker that sends you mail whenever price of a particular product goes below a certain price that you have entered</h3>
-<h2 text-color="red">Dependencies You will need :</h2>
+<h2 text-color="red"> :dizzy: Dependencies You will need :</h2>
 <h3>Nightmare : Nightmare is a high-level browser automation library from Segment that mimics simple user actions like 'goto', 'type' and 'click'.Here nightmare goes to a particular url fetches the html for us and then we can parse and do what we want with it.</h3>
 <br/>
 <h3>@sendgrid/mail : This is a dedicated service for interaction with the mail endpoint of the SendGrid v3 API.
